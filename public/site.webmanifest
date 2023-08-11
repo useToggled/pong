@@ -1,0 +1,17 @@
+{
+  "name": "Pong",
+  "short_name": "Pong",
+  "description": "Social media platform similar to Twitter.",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/twitter-avatar.png",
+      "type": "image/png",
+      "sizes": "500x500"
+    }
+  ]
+}
